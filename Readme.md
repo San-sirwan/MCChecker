@@ -27,7 +27,7 @@ If you get your account locked and are not able to access the email, I take no r
 Please note the Cape Checker mode assumes you have already verified the login credentials.
 ```
 1. Collect verified accounts (If you just ran normally, that would be your account output files)
-2. Put your accounts into the .txt files set in config.cfg. (accounts-moj.txt and accounts-msa.txt by default)
+2. Put your accounts into the .txt files set in config.cfg. (accounts-moj.txt and accounts-msa.txt by default)..
 3. Set the threadCount, attemptCount, and proxyFailCount values in config.cfg to your desired settings
 4. Open terminal and type `java -jar MCChecker.jar --capes` 
 ```
